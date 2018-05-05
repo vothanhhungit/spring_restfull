@@ -108,7 +108,7 @@ public class CommonUtils {
      * Convert list to Json String.
      * For example :{"Datas": [{"P_Id": 11559, "P_Name": "demoName"}, {"P_Id": 11559, "P_Name": "demoName"}]}
      * 
-     * @author vumanhtung
+     * @author HungVT
      * @param list : list to convert
      * @return string json
      */

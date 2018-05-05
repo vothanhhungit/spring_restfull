@@ -10,4 +10,5 @@ public class ControllerConstant {
     public static final String LOGOUT = "/api/logout";
     public static final String REFRESH = "/api/refresh";
     public static final String OPTIONS = "/api/option";
+    public static final String DATA = "/api/data";
 }

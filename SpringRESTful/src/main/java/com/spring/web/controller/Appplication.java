@@ -3,7 +3,8 @@ package com.spring.web.controller;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages={
+    "com.spring.web"})
 public class Appplication {
 
     public static void main(String[] args) {

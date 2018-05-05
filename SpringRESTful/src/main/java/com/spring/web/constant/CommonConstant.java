@@ -5,7 +5,7 @@ import com.spring.web.util.PropertiesUtil;
 /**
  * CommonConstant
  *
- * @author dangvanbac
+ * @author HungVT
  */
 public class CommonConstant {
     public static final String PASS_CONST = "aim6434!forse"; // for encrypt password
